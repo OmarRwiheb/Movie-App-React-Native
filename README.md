@@ -2,6 +2,9 @@
 
 A beautiful and performant **React Native app built with Expo**, designed to explore trending and popular movies. Integrated with **Appwrite** for backend storage and analytics, and uses **TMDB API** for real-time movie data.
 
+> 📺 **Built following this amazing tutorial by JavaScript Mastery**:  
+> [React Native Movie App with Expo & Appwrite (YouTube)](https://www.youtube.com/watch?v=f8Z9JyB2EIE&t=8513s)
+
 ---
 
 ## 🚀 Features
